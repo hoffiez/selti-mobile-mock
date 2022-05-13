@@ -1,7 +1,32 @@
 {
-  "posts": [
+  "popularCategories": [
     {
-      "id": 1,
+      "category": {
+        "id": 1,
+        "name": "Category 1"
+      },
+      "certOffers": [
+        {
+          "id": 1,
+          "brand": {
+            "id": 1,
+            "name": "Brand name"
+          },
+          "min": "2000",
+          "max": "20000",
+          "discount": "30"
+        },
+        {
+          "id": 2,
+          "brand": {
+            "id": 1,
+            "name": "Brand name"
+          },
+          "min": "5000",
+          "max": "10000",
+          "discount": "20"
+        }
+      ],
       "title": "hello"
     }
   ],
