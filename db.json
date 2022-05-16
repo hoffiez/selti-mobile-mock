@@ -85,54 +85,54 @@
     {
       "id": 1,
       "name": "Category 1",
-      "icon": "",
+      "icon": "access_alarm",
       "children": [
         {
           "id": 9,
           "name": "SubCategory 1",
-          "icon": ""
+          "icon": "access_alarm",
         },
         {
           "id": 10,
           "name": "SubCategory 2",
-          "icon": ""
+          "icon": "access_alarm"
         }
       ]
     },
     {
       "id": 2,
       "name": "Category 2",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 3,
       "name": "Category 3",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 4,
       "name": "Category 4",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 5,
       "name": "Category 5",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 6,
       "name": "Category 6",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 7,
       "name": "Category 7",
-      "icon": ""
+      "icon": "access_alarm"
     },
     {
       "id": 8,
       "name": "Category 8",
-      "icon": ""
+      "icon": "access_alarm"
     }
   ],
   "certOffers": [
