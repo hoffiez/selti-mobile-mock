@@ -85,7 +85,7 @@
     {
       "id": 1,
       "name": "Category 1",
-      "icon": "account_box",
+      "icon": "airplay",
       "children": [
         {
           "id": 9,
@@ -102,7 +102,7 @@
     {
       "id": 2,
       "name": "Category 2",
-      "icon": "account_box"
+      "icon": "atm"
     },
     {
       "id": 3,
