@@ -204,6 +204,7 @@
       "finalPrice": "900",
       "discount": "20",
       "imageUrl": "",
+      "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
@@ -221,6 +222,7 @@
       "finalPrice": "1600",
       "discount": "20",
       "imageUrl": "",
+      "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
@@ -238,6 +240,7 @@
       "finalPrice": "2700",
       "discount": "20",
       "imageUrl": "",
+      "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
@@ -255,6 +258,7 @@
       "finalPrice": "4200",
       "discount": "20",
       "imageUrl": "",
+      "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
