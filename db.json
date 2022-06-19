@@ -118,8 +118,8 @@
   "certDefs": [
     {
       "id": 1,
-      "nominal": 1000,
-      "finalPrice": 900,
+      "nominal": "1000",
+      "finalPrice": "900",
       "discount": "20",
       "imageUrl": "",
       "description": "Usloviya ispolzovaniya",
@@ -135,8 +135,8 @@
     },
     {
       "id": 2,
-      "nominal": 2000,
-      "finalPrice": 1600,
+      "nominal": "2000",
+      "finalPrice": "1600",
       "discount": "20",
       "imageUrl": "",
       "description": "Usloviya ispolzovaniya",
@@ -152,8 +152,8 @@
     },
     {
       "id": 4,
-      "nominal": 3000,
-      "finalPrice": 2700,
+      "nominal": "3000",
+      "finalPrice": "2700",
       "discount": "20",
       "imageUrl": "",
       "description": "Usloviya ispolzovaniya",
@@ -169,8 +169,8 @@
     },
     {
       "id": 5,
-      "nominal": 5000,
-      "finalPrice": 4200,
+      "nominal": "5000",
+      "finalPrice": "4200",
       "discount": "20",
       "imageUrl": "",
       "description": "Usloviya ispolzovaniya",
