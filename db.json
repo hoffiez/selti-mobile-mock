@@ -187,6 +187,76 @@
       "discount": "20"
     }
   ],
+  "certDefs": [
+    {
+      "id": 1,
+      "nominal": 1000,
+      "finalPrice": 900,
+      "discount": "20",
+      "imageUrl": "",
+      "description": "Usloviya ispolzovaniya",
+      "marketplaces": [
+        {
+          "region_name": "Самарская область",
+          "city_name": "г. Самара",
+          "address": "ул. Иванова, 20",
+          "longitude": "",
+          "latitude": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nominal": 2000,
+      "finalPrice": 1600,
+      "discount": "20",
+      "imageUrl": "",
+      "description": "Usloviya ispolzovaniya",
+      "marketplaces": [
+        {
+          "region_name": "Самарская область",
+          "city_name": "г. Самара",
+          "address": "ул. Иванова, 20",
+          "longitude": "",
+          "latitude": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nominal": 3000,
+      "finalPrice": 2700,
+      "discount": "20",
+      "imageUrl": "",
+      "description": "Usloviya ispolzovaniya",
+      "marketplaces": [
+        {
+          "region_name": "Самарская область",
+          "city_name": "г. Самара",
+          "address": "ул. Иванова, 20",
+          "longitude": "",
+          "latitude": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nominal": 5000,
+      "finalPrice": 4200,
+      "discount": "20",
+      "imageUrl": "",
+      "description": "Usloviya ispolzovaniya",
+      "marketplaces": [
+        {
+          "region_name": "Самарская область",
+          "city_name": "г. Самара",
+          "address": "ул. Иванова, 20",
+          "longitude": "",
+          "latitude": ""
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
