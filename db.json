@@ -208,8 +208,8 @@
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
-          "region_name": "Самарская область",
-          "city_name": "г. Самара",
+          "regionName": "Самарская область",
+          "cityName": "г. Самара",
           "address": "ул. Иванова, 20",
           "longitude": "",
           "latitude": ""
