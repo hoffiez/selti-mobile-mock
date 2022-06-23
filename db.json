@@ -240,8 +240,8 @@
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
-          "region_name": "Самарская область",
-          "city_name": "г. Самара",
+          "regionName": "Самарская область",
+          "cityName": "г. Санкт-Петербург",
           "address": "ул. Иванова, 20",
           "longitude": "",
           "latitude": ""
@@ -258,8 +258,8 @@
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
-          "region_name": "Самарская область",
-          "city_name": "г. Самара",
+          "regionName": "Самарская область",
+          "cityName": "г. Санкт-Петербург",
           "address": "ул. Иванова, 20",
           "longitude": "",
           "latitude": ""
@@ -276,8 +276,8 @@
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
-          "region_name": "Самарская область",
-          "city_name": "г. Самара",
+          "regionName": "Самарская область",
+          "cityName": "г. Санкт-Петербург",
           "address": "ул. Иванова, 20",
           "longitude": "",
           "latitude": ""
