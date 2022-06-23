@@ -203,8 +203,8 @@
       "nominal": "1000",
       "finalPrice": "900",
       "discount": "20",
-      "imageUrl": "",
-      "expiresAt": "",
+      "imageUrl": "https://picsum.photos/600/400",
+      "expiresAt": "20.09.2022",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
         {
