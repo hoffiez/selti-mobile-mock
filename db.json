@@ -241,7 +241,7 @@
       "nominal": "2000",
       "finalPrice": "1600",
       "discount": "20",
-      "imageUrl": "",
+      "imageUrl": "https://picsum.photos/600/400",
       "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
@@ -259,7 +259,7 @@
       "nominal": "3000",
       "finalPrice": "2700",
       "discount": "20",
-      "imageUrl": "",
+      "imageUrl": "https://picsum.photos/600/400",
       "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
@@ -277,7 +277,7 @@
       "nominal": "5000",
       "finalPrice": "4200",
       "discount": "20",
-      "imageUrl": "",
+      "imageUrl": "https://picsum.photos/600/400",
       "expiresAt": "",
       "description": "Usloviya ispolzovaniya",
       "marketplaces": [
