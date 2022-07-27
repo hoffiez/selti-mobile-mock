@@ -52,24 +52,6 @@
           "discount": "20",
           "imageLink": "https://picsum.photos/250?image=9"
         },
-        {
-          "id": 6,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 7,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        }
       ]
     },
     {
@@ -123,24 +105,6 @@
           "max": "10000",
           "discount": "20",
           "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 6,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 7,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
         }
       ]
     },
@@ -180,33 +144,6 @@
         },
         {
           "id": 4,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 5,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 6,
-          "brandId": 1,
-          "brandName": "Brand name",
-          "min": "5000",
-          "max": "10000",
-          "discount": "20",
-          "imageLink": "https://picsum.photos/250?image=9"
-        },
-        {
-          "id": 7,
           "brandId": 1,
           "brandName": "Brand name",
           "min": "5000",
