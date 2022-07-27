@@ -31,7 +31,8 @@
           "brandName": "Brand name",
           "min": "2000",
           "max": "12000",
-          "discount": "20"
+          "discount": "20",
+          "imageLink": "https://picsum.photos/250?image=9"
         },
         {
           "id": 4,
