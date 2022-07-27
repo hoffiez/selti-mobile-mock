@@ -4,7 +4,8 @@
       "category": {
         "id": 1,
         "name": "Красота",
-        "icon": ""
+        "icon": "",
+        "hasChildren": false
       },
       "certOffers": [
         {
@@ -58,7 +59,8 @@
       "category": {
         "id": 2,
         "name": "Бытовая техника",
-        "icon": ""
+        "icon": "",
+        "hasChildren": false
       },
       "certOffers": [
         {
@@ -103,7 +105,8 @@
       "category": {
         "id": 3,
         "name": "Спорттовары",
-        "icon": ""
+        "icon": "",
+        "hasChildren": false
       },
       "certOffers": [
         {
