@@ -51,7 +51,7 @@
           "max": "10000",
           "discount": "20",
           "imageLink": "https://picsum.photos/250?image=9"
-        },
+        }
       ]
     },
     {
@@ -202,7 +202,7 @@
       "id": 9,
       "name": "Category 8",
       "icon": "access_alarm"
-    },
+    }
   ],
   "certOffers": [
     {
